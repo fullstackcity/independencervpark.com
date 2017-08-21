@@ -485,3 +485,6 @@ __pycache__/
 # should be stored in the .pubxml.user file.
 
 # End of https://www.gitignore.io/api/osx,c++,java,ruby,linux,macos,windows,visualstudio,visualstudiocode
+
+/1776-RV-PARK/Temp/Documentation
+/1776-RV-PARK/Temp/Independence_RV_Park_Pics
